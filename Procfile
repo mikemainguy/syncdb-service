@@ -1,1 +1,1 @@
-web: npx pouchdb-server -p $PORT -m
+web: npx pouchdb-server -p $PORT -m -o 0.0.0.0
