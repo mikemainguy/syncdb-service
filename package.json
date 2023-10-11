@@ -1,0 +1,7 @@
+{
+  "name": "syncdb-service",
+  "version": "1.0.0",
+  "dependencies": {
+    "pouchdb-server": "^4.2.0"
+  }
+}
