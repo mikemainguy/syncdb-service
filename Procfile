@@ -1,0 +1,1 @@
+web: npx pouchdb-server -m
